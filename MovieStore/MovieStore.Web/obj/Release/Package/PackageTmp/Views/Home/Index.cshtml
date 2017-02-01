@@ -1,0 +1,78 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div ng-app="myApp" ng-cloak ng-controller="DataController">
+    <img class="center-block" ng-hide="loaded" src="http://imgh.us/ring.gif" alt="loader" />
+    <div class="container">
+        <div ng-view></div>
+    </div>
+    <script type="text/ng-template" id="home.html">
+        <div ng-repeat="movie in movies" class="col-sm-12 col-lg-3 col-md-6">
+            <div class="thumbnail">
+                <div class="caption text-center">
+                    <h4>{{movie.Title}}</h4>
+                </div>
+                <img class="poster" ng-src="{{movie.Poster}}" alt="">     
+                <div class="caption text-center">
+                    <h5>Year : {{movie.Year}}</h5>
+                    <p><a ng-click="buy(movie)" class="btn btn-primary" role="button">View Details</a> </p>
+                </div>          
+            </div>
+        </div>
+    </script>
+    <script type="text/ng-template" id="confirm.html">
+        <div>
+                <img ng-src="{{selectedMovie.Poster}}" class="thumbnail animated flip movie-poster">
+                <span class="span-outer">
+                          {{selectedMovie.Title}}
+                </span>, {{ selectedMovie.Year }}
+
+                 <p><strong>Released on:</strong> {{ selectedMovie.Released }} ({{ selectedMovie.Runtime }})({{ selectedMovie.Country}})</p>
+
+                <p><strong>Storyline:</strong>
+                <p>{{selectedMovie.Plot}}</p>
+
+                <p><strong>Genre:</strong>
+                <p>{{selectedMovie.Genre}}</p>
+
+                <p class="outer-p">
+                    <div class="inner-p">
+                        <span class="label label-primary">Directors :</span> {{ selectedMovie.Director }}
+                    </div>
+                    <div class="inner-p">
+                        <span class="label label-primary">Writer :</span> {{ selectedMovie.Writer }}
+                    </div>
+                    <div class="inner-p">
+                        <span class="label label-primary">Actors :</span> {{ selectedMovie.Actors }}
+                    </div>
+                    <div class="inner-p">
+                        <span class="label label-primary">Genre :</span> {{ selectedMovie.Genre }}
+                    </div>
+                </p>
+
+                <p class="outer-p-2">
+                    Reviews:<br>
+                    <strong>Rating</strong>: <span class="label label-success">{{ selectedMovie.Rating }}</span><br>
+                    <strong>Rated</strong>: <span class="label label-success">{{ selectedMovie.Rated }}</span>
+                    <strong>Metascore</strong>: <span class="label label-success">{{ selectedMovie.Metascore }}</span><br>
+                    <strong>Votes</strong>: <span class="label label-success">{{ selectedMovie.Votes }}</span><br>
+                </p>
+
+            <p class="outer-p-2">
+                Pricing:<br>
+                <strong>{{ selectedMovie.MovieDB }} Price</strong>: <span class="label label-success">{{ selectedMovie.Price }}</span><br>
+                <strong>{{ selectedMovie.RivalMovieDB }} Price</strong>: <span class="label label-success">{{ selectedMovie.RivalPrice }}</span>
+                <strong>{{ selectedMovie.RivalMovieDB }}  is cheaper?</strong>: <span class="label label-success">{{ selectedMovie.RivalPriceCheaper}}</span><br>
+            </p>
+
+
+
+</div>
+
+    </script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.0/angular.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.0/angular-route.min.js"></script>
+    <script src="~/Scripts/MovieStore/movieapp.js"></script>
+    <link href="~/Content/MovieStore.css" rel="stylesheet" />
+</div>

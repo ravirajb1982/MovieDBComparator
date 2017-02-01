@@ -1,0 +1,33 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div ng-app="movieApp" ng-cloak ng-controller="movieController">
+    <img class="center-block" ng-hide="loaded" src="http://imgh.us/ring.gif" alt="loader" />
+    <div class="container">
+        <div ng-view></div>
+    </div>
+    <span id="Messages" class="col-sm-offset-3 col-sm-9" ng-bind="Msg">  </span>
+    <script type="text/ng-template" id="MovieList.html">
+        <div ng-repeat="movie in movies" class="col-sm-12 col-lg-3 col-md-6">
+            <div class="thumbnail">
+                <div class="caption text-center">
+                    <h4>{{movie.Title}}</h4>
+                </div>
+                <img class="poster" ng-src="{{movie.Poster}}" alt="">     
+                <div class="caption text-center">
+                    <h5>Year : {{movie.Year}}</h5>
+                    <p><a ng-click="viewDetail(movie)" class="btn btn-primary" role="button">View Details</a> </p>
+                </div>          
+            </div>
+        </div>
+    </script>
+
+    <script src="~/Scripts/angular.min.js"></script>
+    <script src="~/Scripts/angular-route.min.js"></script>
+    <script src="~/Scripts/app/app.js"></script>
+    <script src="~/Scripts/app/router.js"></script>
+    <script src="~/Scripts/app/controller.js"></script>
+    <script src="~/Scripts/app/service.js"></script>
+    <link href="~/Content/MovieStore.css" rel="stylesheet" />
+</div>

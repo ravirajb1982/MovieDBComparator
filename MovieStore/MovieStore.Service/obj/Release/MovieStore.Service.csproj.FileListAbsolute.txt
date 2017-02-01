@@ -1,0 +1,8 @@
+C:\Projects\Sunny\17 jan\MovieStore\MovieStore.Service\bin\Release\MovieStore.Service.dll
+C:\Projects\Sunny\17 jan\MovieStore\MovieStore.Service\bin\Release\MovieStore.Service.pdb
+C:\Projects\Sunny\17 jan\MovieStore\MovieStore.Service\bin\Release\Newtonsoft.Json.dll
+C:\Projects\Sunny\17 jan\MovieStore\MovieStore.Service\bin\Release\System.Net.Http.Formatting.dll
+C:\Projects\Sunny\17 jan\MovieStore\MovieStore.Service\bin\Release\Newtonsoft.Json.xml
+C:\Projects\Sunny\17 jan\MovieStore\MovieStore.Service\bin\Release\System.Net.Http.Formatting.xml
+C:\Projects\Sunny\17 jan\MovieStore\MovieStore.Service\obj\Release\MovieStore.Service.dll
+C:\Projects\Sunny\17 jan\MovieStore\MovieStore.Service\obj\Release\MovieStore.Service.pdb

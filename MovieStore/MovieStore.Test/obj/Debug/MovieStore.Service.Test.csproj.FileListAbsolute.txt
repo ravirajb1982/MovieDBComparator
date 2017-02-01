@@ -1,0 +1,136 @@
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\MovieStore\MovieStore.Test\bin\Debug\MovieStore.Test.dll.config
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\MovieStore\MovieStore.Test\bin\Debug\MovieStore.Test.dll
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\MovieStore\MovieStore.Test\bin\Debug\MovieStore.Test.pdb
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\MovieStore\MovieStore.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\MovieStore\MovieStore.Test\bin\Debug\MovieStore.BLL.dll
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\MovieStore\MovieStore.Test\bin\Debug\MovieStore.Models.dll
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\MovieStore\MovieStore.Test\bin\Debug\MovieStore.Service.dll
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\MovieStore\MovieStore.Test\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\MovieStore\MovieStore.Test\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\MovieStore\MovieStore.Test\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\MovieStore\MovieStore.Test\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\MovieStore\MovieStore.Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\MovieStore\MovieStore.Test\bin\Debug\MovieStore.BLL.pdb
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\MovieStore\MovieStore.Test\bin\Debug\MovieStore.Models.pdb
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\MovieStore\MovieStore.Test\bin\Debug\MovieStore.Service.pdb
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\MovieStore\MovieStore.Test\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\MovieStore\MovieStore.Test\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\MovieStore\MovieStore.Test\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\MovieStore\MovieStore.Test\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\MovieStore\MovieStore.Test\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\MovieStore\MovieStore.Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\MovieStore\MovieStore.Test\obj\Debug\MovieStore.Service.Test.csprojResolveAssemblyReference.cache
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\MovieStore\MovieStore.Test\obj\Debug\MovieStore.Test.dll
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\MovieStore\MovieStore.Test\obj\Debug\MovieStore.Test.pdb
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\0940\MovieStore\MovieStore.Test\bin\Debug\MovieStore.Test.dll.config
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\0940\MovieStore\MovieStore.Test\bin\Debug\MovieStore.Test.dll
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\0940\MovieStore\MovieStore.Test\bin\Debug\MovieStore.Test.pdb
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\0940\MovieStore\MovieStore.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\0940\MovieStore\MovieStore.Test\bin\Debug\MovieStore.BLL.dll
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\0940\MovieStore\MovieStore.Test\bin\Debug\MovieStore.Models.dll
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\0940\MovieStore\MovieStore.Test\bin\Debug\MovieStore.Service.dll
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\0940\MovieStore\MovieStore.Test\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\0940\MovieStore\MovieStore.Test\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\0940\MovieStore\MovieStore.Test\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.dll
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\0940\MovieStore\MovieStore.Test\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\0940\MovieStore\MovieStore.Test\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\0940\MovieStore\MovieStore.Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\0940\MovieStore\MovieStore.Test\bin\Debug\MovieStore.BLL.pdb
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\0940\MovieStore\MovieStore.Test\bin\Debug\MovieStore.Models.pdb
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\0940\MovieStore\MovieStore.Test\bin\Debug\MovieStore.Service.pdb
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\0940\MovieStore\MovieStore.Test\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\0940\MovieStore\MovieStore.Test\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\0940\MovieStore\MovieStore.Test\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.xml
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\0940\MovieStore\MovieStore.Test\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\0940\MovieStore\MovieStore.Test\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\0940\MovieStore\MovieStore.Test\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\0940\MovieStore\MovieStore.Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\0940\MovieStore\MovieStore.Test\obj\Debug\MovieStore.Service.Test.csprojResolveAssemblyReference.cache
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\0940\MovieStore\MovieStore.Test\obj\Debug\MovieStore.Test.dll
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\0940\MovieStore\MovieStore.Test\obj\Debug\MovieStore.Test.pdb
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\1100\MovieStore\MovieStore.Test\bin\Debug\MovieStore.Test.dll.config
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\1100\MovieStore\MovieStore.Test\bin\Debug\MovieStore.Test.dll
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\1100\MovieStore\MovieStore.Test\bin\Debug\MovieStore.Test.pdb
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\1100\MovieStore\MovieStore.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\1100\MovieStore\MovieStore.Test\bin\Debug\MovieStore.BLL.dll
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\1100\MovieStore\MovieStore.Test\bin\Debug\MovieStore.Models.dll
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\1100\MovieStore\MovieStore.Test\bin\Debug\MovieStore.Service.dll
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\1100\MovieStore\MovieStore.Test\bin\Debug\Autofac.dll
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\1100\MovieStore\MovieStore.Test\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.dll
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\1100\MovieStore\MovieStore.Test\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\1100\MovieStore\MovieStore.Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\1100\MovieStore\MovieStore.Test\bin\Debug\MovieStore.BLL.pdb
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\1100\MovieStore\MovieStore.Test\bin\Debug\MovieStore.Models.pdb
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\1100\MovieStore\MovieStore.Test\bin\Debug\MovieStore.Service.pdb
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\1100\MovieStore\MovieStore.Test\bin\Debug\Autofac.xml
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\1100\MovieStore\MovieStore.Test\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.xml
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\1100\MovieStore\MovieStore.Test\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\1100\MovieStore\MovieStore.Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\1100\MovieStore\MovieStore.Test\obj\Debug\MovieStore.Service.Test.csprojResolveAssemblyReference.cache
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\1100\MovieStore\MovieStore.Test\obj\Debug\MovieStore.Test.dll
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\1100\MovieStore\MovieStore.Test\obj\Debug\MovieStore.Test.pdb
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\1208\MovieStore\MovieStore.Test\bin\Debug\MovieStore.Test.dll.config
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\1208\MovieStore\MovieStore.Test\bin\Debug\MovieStore.Test.dll
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\1208\MovieStore\MovieStore.Test\bin\Debug\MovieStore.Test.pdb
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\1208\MovieStore\MovieStore.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\1208\MovieStore\MovieStore.Test\bin\Debug\MovieStore.BLL.dll
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\1208\MovieStore\MovieStore.Test\bin\Debug\MovieStore.Models.dll
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\1208\MovieStore\MovieStore.Test\bin\Debug\MovieStore.Service.dll
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\1208\MovieStore\MovieStore.Test\bin\Debug\Autofac.dll
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\1208\MovieStore\MovieStore.Test\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.dll
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\1208\MovieStore\MovieStore.Test\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\1208\MovieStore\MovieStore.Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\1208\MovieStore\MovieStore.Test\bin\Debug\MovieStore.BLL.pdb
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\1208\MovieStore\MovieStore.Test\bin\Debug\MovieStore.Models.pdb
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\1208\MovieStore\MovieStore.Test\bin\Debug\MovieStore.Service.pdb
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\1208\MovieStore\MovieStore.Test\bin\Debug\Autofac.xml
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\1208\MovieStore\MovieStore.Test\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.xml
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\1208\MovieStore\MovieStore.Test\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\1208\MovieStore\MovieStore.Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\1208\MovieStore\MovieStore.Test\obj\Debug\MovieStore.Service.Test.csprojResolveAssemblyReference.cache
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\1208\MovieStore\MovieStore.Test\obj\Debug\MovieStore.Test.dll
+C:\Users\beyon\Documents\Visual Studio 2015\Projects\25 jan\1208\MovieStore\MovieStore.Test\obj\Debug\MovieStore.Test.pdb
+C:\Projects\Final\25 jan\2230\MovieStore\MovieStore.Test\bin\Debug\MovieStore.Test.dll.config
+C:\Projects\Final\25 jan\2230\MovieStore\MovieStore.Test\bin\Debug\MovieStore.Test.dll
+C:\Projects\Final\25 jan\2230\MovieStore\MovieStore.Test\bin\Debug\MovieStore.Test.pdb
+C:\Projects\Final\25 jan\2230\MovieStore\MovieStore.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Projects\Final\25 jan\2230\MovieStore\MovieStore.Test\bin\Debug\MovieStore.BLL.dll
+C:\Projects\Final\25 jan\2230\MovieStore\MovieStore.Test\bin\Debug\MovieStore.Models.dll
+C:\Projects\Final\25 jan\2230\MovieStore\MovieStore.Test\bin\Debug\MovieStore.Service.dll
+C:\Projects\Final\25 jan\2230\MovieStore\MovieStore.Test\bin\Debug\Autofac.dll
+C:\Projects\Final\25 jan\2230\MovieStore\MovieStore.Test\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.dll
+C:\Projects\Final\25 jan\2230\MovieStore\MovieStore.Test\bin\Debug\System.Net.Http.Formatting.dll
+C:\Projects\Final\25 jan\2230\MovieStore\MovieStore.Test\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\Final\25 jan\2230\MovieStore\MovieStore.Test\bin\Debug\MovieStore.BLL.pdb
+C:\Projects\Final\25 jan\2230\MovieStore\MovieStore.Test\bin\Debug\MovieStore.Models.pdb
+C:\Projects\Final\25 jan\2230\MovieStore\MovieStore.Test\bin\Debug\MovieStore.Service.pdb
+C:\Projects\Final\25 jan\2230\MovieStore\MovieStore.Test\bin\Debug\Autofac.xml
+C:\Projects\Final\25 jan\2230\MovieStore\MovieStore.Test\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.xml
+C:\Projects\Final\25 jan\2230\MovieStore\MovieStore.Test\bin\Debug\System.Net.Http.Formatting.xml
+C:\Projects\Final\25 jan\2230\MovieStore\MovieStore.Test\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\Final\25 jan\2230\MovieStore\MovieStore.Test\obj\Debug\MovieStore.Service.Test.csprojResolveAssemblyReference.cache
+C:\Projects\Final\25 jan\2230\MovieStore\MovieStore.Test\obj\Debug\MovieStore.Test.dll
+C:\Projects\Final\25 jan\2230\MovieStore\MovieStore.Test\obj\Debug\MovieStore.Test.pdb
+C:\Projects\Final\26 jan\1708\MovieStore\MovieStore.Test\bin\Debug\MovieStore.Test.dll.config
+C:\Projects\Final\26 jan\1708\MovieStore\MovieStore.Test\bin\Debug\MovieStore.Test.dll
+C:\Projects\Final\26 jan\1708\MovieStore\MovieStore.Test\bin\Debug\MovieStore.Test.pdb
+C:\Projects\Final\26 jan\1708\MovieStore\MovieStore.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Projects\Final\26 jan\1708\MovieStore\MovieStore.Test\bin\Debug\MovieStore.BLL.dll
+C:\Projects\Final\26 jan\1708\MovieStore\MovieStore.Test\bin\Debug\MovieStore.Models.dll
+C:\Projects\Final\26 jan\1708\MovieStore\MovieStore.Test\bin\Debug\MovieStore.Service.dll
+C:\Projects\Final\26 jan\1708\MovieStore\MovieStore.Test\bin\Debug\Autofac.dll
+C:\Projects\Final\26 jan\1708\MovieStore\MovieStore.Test\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.dll
+C:\Projects\Final\26 jan\1708\MovieStore\MovieStore.Test\bin\Debug\System.Net.Http.Formatting.dll
+C:\Projects\Final\26 jan\1708\MovieStore\MovieStore.Test\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\Final\26 jan\1708\MovieStore\MovieStore.Test\bin\Debug\MovieStore.BLL.pdb
+C:\Projects\Final\26 jan\1708\MovieStore\MovieStore.Test\bin\Debug\MovieStore.Models.pdb
+C:\Projects\Final\26 jan\1708\MovieStore\MovieStore.Test\bin\Debug\MovieStore.Service.pdb
+C:\Projects\Final\26 jan\1708\MovieStore\MovieStore.Test\bin\Debug\Autofac.xml
+C:\Projects\Final\26 jan\1708\MovieStore\MovieStore.Test\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.xml
+C:\Projects\Final\26 jan\1708\MovieStore\MovieStore.Test\bin\Debug\System.Net.Http.Formatting.xml
+C:\Projects\Final\26 jan\1708\MovieStore\MovieStore.Test\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\Final\26 jan\1708\MovieStore\MovieStore.Test\obj\Debug\MovieStore.Service.Test.csprojResolveAssemblyReference.cache
+C:\Projects\Final\26 jan\1708\MovieStore\MovieStore.Test\obj\Debug\MovieStore.Test.dll
+C:\Projects\Final\26 jan\1708\MovieStore\MovieStore.Test\obj\Debug\MovieStore.Test.pdb
+C:\Projects\Final\26 jan\1708\MovieStore\MovieStore.Test\bin\Debug\MovieStore.BLL.Test.dll
+C:\Projects\Final\26 jan\1708\MovieStore\MovieStore.Test\bin\Debug\MovieStore.BLL.Test.pdb

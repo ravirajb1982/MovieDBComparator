@@ -1,0 +1,67 @@
+﻿<div>
+    <div>
+        <img ng-src="{{selectedMovie.Poster}}" class="thumbnail animated flip movie-poster">
+        <span class="span-outer">
+            {{selectedMovie.Title}}
+        </span>, {{ selectedMovie.Year }}
+
+        <p><strong>Released on:</strong> {{ selectedMovie.Released }} ({{ selectedMovie.Runtime }})({{ selectedMovie.Country}})</p>
+
+        <p><strong>Storyline:</strong></p>
+        <div class="justify">
+            <p>{{selectedMovie.Plot}}</p>
+        </div>
+
+        <p><strong>Genre:</strong></p>
+        <p>{{selectedMovie.Genre}}</p>
+
+    </div>
+    <br />
+    <p class="outer-p">
+        <div class="inner-p">
+            <span class="label label-primary">Directors :</span> {{ selectedMovie.Director }}
+        </div>
+        <div class="inner-p">
+            <span class="label label-primary">Writer :</span> {{ selectedMovie.Writer }}
+        </div>
+        <div class="inner-p">
+            <span class="label label-primary">Actors :</span> {{ selectedMovie.Actors }}
+        </div>
+        <div class="inner-p">
+            <span class="label label-primary">Genre :</span> {{ selectedMovie.Genre }}
+        </div>
+    </p>
+
+
+    <p class="outer-p">
+        <div class="inner-p">
+            <span class="label label-info">Rating :</span> {{ selectedMovie.Rating }}
+        </div>
+        <div class="inner-p">
+            <span class="label label-info">Rated :</span> {{ selectedMovie.Rated }}
+        </div>
+        <div class="inner-p">
+            <span class="label label-info">Metascore :</span> {{ selectedMovie.Metascore }}
+        </div>
+        <div class="inner-p">
+            <span class="label label-info">Votes :</span> {{  selectedMovie.Votes }}
+        </div>
+    </p>
+
+    <p class="outer-p-2">
+        <div ng-show="selectedMovie.RivalPriceCheaper">
+            <strong>{{ selectedMovie.RivalMovieDB }} </strong> <span class="label label-success">{{ selectedMovie.RivalPrice }}</span><span class="glyphicon  glyphicon-thumbs-up"></span><br />
+            <strong>{{ selectedMovie.MovieDB }} </strong> <span class="label label-danger">{{ selectedMovie.Price }}</span><br>
+            <strong>{{ selectedMovie.RivalMovieDB }} </strong>  is cheaper by {{ (selectedMovie.Price-selectedMovie.RivalPrice) }}
+</div>
+        <div ng-hide="selectedMovie.RivalPriceCheaper">
+            <strong>{{ selectedMovie.MovieDB }} </strong>: <span class="label label-success">{{ selectedMovie.Price }}</span><span class="glyphicon glyphicon-thumbs-up"></span><br>
+            <strong>{{ selectedMovie.RivalMovieDB }} </strong>: <span class="label label-danger">{{ selectedMovie.RivalPrice }}</span>
+            <strong>{{ selectedMovie.MovieDB }} </strong>  is cheaper by {{ (selectedMovie.RivalPrice-selectedMovie.Price) }}
+</div>
+        </p>
+
+
+
+    </div>
+
